@@ -1,0 +1,16 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-nav a{
+    color: #777777;
+}
+.navbar-brand{
+    color: #4A4A4A;
+}
+.navbar-nav{
+    column-gap: 5%;
+    justify-content: flex-end;
+}
+.menu-part{
+    justify-content: flex-end;
+}

@@ -14,3 +14,7 @@ body{
 .menu-part{
     justify-content: flex-end;
 }
+.carousel-item img{
+    filter: brightness(50%);
+}
+

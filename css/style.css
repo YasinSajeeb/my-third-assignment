@@ -17,4 +17,7 @@ body{
 .carousel-item img{
     filter: brightness(50%);
 }
+#courses img{
+    box-sizing: content-box;
+}
 
